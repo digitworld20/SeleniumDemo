@@ -34,6 +34,7 @@ public class AlertMsg {
 		driver.switchTo().alert().dismiss();
 		System.out.println("hi");
 		System.out.println("second changes from GitSelenium");
+		System.out.println("third changes from GitSelenium in a new branch");
 	}
 
 }

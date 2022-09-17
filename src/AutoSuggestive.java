@@ -39,7 +39,7 @@ public class AutoSuggestive {
 		
 		//count the number of checkbox - find common locator 
 		System.out.println(driver.findElements(By.cssSelector("input[type='checkbox']")).size());
-		
+		System.out.println("third changes from GitSelenium in a new branch");
 	}
 
 }
