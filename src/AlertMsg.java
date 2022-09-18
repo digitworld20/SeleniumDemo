@@ -32,10 +32,8 @@ public class AlertMsg {
 		System.out.println(driver.switchTo().alert().getText());
 		// click negative side of alert button (cancel, no) on alert
 		driver.switchTo().alert().dismiss();
-		System.out.println("hi");
-		System.out.println("second changes from GitSelenium");
-		System.out.println("third changes from GitSelenium in a new branch");
-		System.out.println("fourth changes from GitSelenium in a new branch by gitselenium");
+		System.out.println("new changes");
+
 	}
 
 }
